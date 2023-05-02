@@ -14,6 +14,6 @@ I would really appreciate your input regarding the project.
 
 Please checkout the Javascript version. Give me feedback please.
 
-- [#f03c15] text in red '#f03c15'
+- [#f03c15] text in red '#f03c15' [#f03c15]
 
 [AtillaNoDuplicateSorting](https://github.com/AtillaYadik/AtillaNoDuplicateSorting)
