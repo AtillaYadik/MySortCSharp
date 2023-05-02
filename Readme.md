@@ -13,5 +13,8 @@ I would really appreciate your input regarding the project.
 ## I have the same project in Javascript as well
 
 Please checkout the Javascript version. Give me feedback please.
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 [AtillaNoDuplicateSorting](https://github.com/AtillaYadik/AtillaNoDuplicateSorting)
