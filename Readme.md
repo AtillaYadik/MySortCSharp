@@ -14,8 +14,4 @@ I would really appreciate your input regarding the project.
 
 Please checkout the Javascript version. Give me feedback please.
 
-
-You can use the diff language tag to generate some colored text:
-
-
 [AtillaNoDuplicateSorting](https://github.com/AtillaYadik/AtillaNoDuplicateSorting)
